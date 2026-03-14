@@ -48,7 +48,6 @@ export const Layout = ({ children }: LayoutProps) => {
         <div className="h-full flex flex-col">
           <div className="p-6 border-b border-border">
             <h1 className="text-2xl font-bold text-primary tracking-tight flex items-center gap-2">
-              <span className="w-2 h-8 bg-primary rounded-full"></span>
               Forest Watch
             </h1>
           </div>
